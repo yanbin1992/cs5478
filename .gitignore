@@ -1,0 +1,12 @@
+.vscode/
+*~
+
+.idea/
+
+
+
+gym-duckietown/test_dev/
+
+gym-duckietown/pics/
+
+path_*.yaml
